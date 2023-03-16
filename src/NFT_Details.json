@@ -1,0 +1,24 @@
+{"status":"ok",
+"results":[
+    {
+        "name":"Ape In Love",
+        "img_url":"https://ik.imagekit.io/Suresh/API/1st.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657374308403",
+        "likes":"21,5K",
+        "author":"johnti60",
+        "price":"9.10"
+    },
+    {
+        "name":"Ape In Fault",
+        "img_url":"https://ik.imagekit.io/Suresh/API/2nd?ik-sdk-version=javascript-1.4.3&updatedAt=1657374324590",
+        "likes":"14,5K",
+        "author":"suresh13",
+        "price":"6.10"
+    },
+    {
+        "name":"Ape In Fault",
+        "img_url":"https://ik.imagekit.io/Suresh/API/3rd?ik-sdk-version=javascript-1.4.3&updatedAt=1657374336793",
+        "likes":"14,5K",
+        "author":"suresh13",
+        "price":"6.10"
+    }
+]}
